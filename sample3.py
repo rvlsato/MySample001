@@ -1,6 +1,4 @@
 #!/bin/env python
 
-# sample2
-# mod:wq
-
+#hello “ú–{Œê
 
