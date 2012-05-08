@@ -2,7 +2,7 @@
 
 import os,sys
 
-print "hello world. develop. feature."
+print "hello world. develop. feature. hello"
 
 # test1
 # end
