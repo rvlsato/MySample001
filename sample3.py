@@ -1,4 +1,5 @@
 #!/bin/env python
 
-#hello “ú–{Œê
+# æ—¥æœ¬èªžãƒ†ã‚¹ãƒˆ
+#hello
 # testest
